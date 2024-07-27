@@ -51,6 +51,8 @@ https://github.com/sudoAlireza/Telebot/assets/87416117/beeb0fd2-73c6-4631-baea-2
    AUTHORIZED_USER=<Your Telegram account ID number>
    ```
 
+Replace the " example.env " with your actual .env file and add all the API tokens, keys, and Telegram User Id.
+
 2. Update the `safety_settings.json` file with appropriate safety settings for Gemini policies.
 
 ### Usage
