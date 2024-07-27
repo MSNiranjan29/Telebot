@@ -1,6 +1,6 @@
-# GeminiBot - Personalized Telegram Bot
+# TeleBot - Personalized Telegram Bot using Gemini
 
-GeminiBot is a Telegram bot tailored to chat with Google's Gemini AI chatbot. Leveraging the official Gemini Bot on the Telegram platform, it engages users in dynamic conversations.
+Telebot is a Telegram bot tailored to chat with Google's Gemini AI chatbot. Leveraging the official Gemini Bot on the Telegram platform, it engages users in dynamic conversations.
 
 
 ## Getting Started
@@ -12,12 +12,12 @@ Before deploying the bot, ensure you have the following:
 - Python 3.10 installed on your system
 - Obtain a [Telegram API token](https://core.telegram.org/bots) from BotFather
 - Acquire a [Gemini API key](https://makersuite.google.com/app/apikey) from the Google Gemini website
-- Get your Telegram Account id from [Show Json Bot](https://t.me/ShowJsonBot). Account id is different than Account username and you should set it in `.env` file to restrict GeminiBot to your account.
+- Get your Telegram Account id from [Show Json Bot](https://t.me/ShowJsonBot). Account id is different than Account username and you should set it in `.env` file to restrict Telebot to your account.
 
 ##
 
 
-https://github.com/sudoAlireza/GeminiBot/assets/87416117/beeb0fd2-73c6-4631-baea-2e3e3eeb9319
+https://github.com/sudoAlireza/Telebot/assets/87416117/beeb0fd2-73c6-4631-baea-2e3e3eeb9319
 
 
 
@@ -26,13 +26,13 @@ https://github.com/sudoAlireza/GeminiBot/assets/87416117/beeb0fd2-73c6-4631-baea
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sudoAlireza/GeminiBot.git
+   git clone https://github.com/sudoAlireza/Telebot.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd GeminiBot
+   cd Telebot
    ```
 
 3. Install the required dependencies:
@@ -55,7 +55,7 @@ https://github.com/sudoAlireza/GeminiBot/assets/87416117/beeb0fd2-73c6-4631-baea
 
 ### Usage
 
-Run GeminiBot using:
+Run Telebot using:
 
 ```bash
 python main.py
@@ -89,4 +89,4 @@ Ensure the security of your API keys and sensitive information. Follow best prac
 
 ## Contributing
 
-Contributions to GeminiBot are encouraged. Feel free to submit issues and pull requests.
+Contributions to Telebot are encouraged. Feel free to submit issues and pull requests.
