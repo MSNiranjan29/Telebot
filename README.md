@@ -26,7 +26,7 @@ https://github.com/sudoAlireza/Telebot/assets/87416117/beeb0fd2-73c6-4631-baea-2
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sudoAlireza/Telebot.git
+   git clone  https://github.com/MSNiranjan29/Telebot.git
    ```
 
 2. Navigate to the project directory:
